@@ -11,9 +11,10 @@ positional arguments:
   directory             Path to the directory containing the CSV files.
 
 options:
-  -h, --help            show this help message and exit
-  --decimal_points DECIMAL_POINTS
-                        Number of decimal points to round to (default is 3, maximum is 7).
-  --remove REMOVE       Whether to remove other files in the directory after processing (default is True).
+  -h, --help      show this help message and exit
+  
+  --decimal_points DECIMAL_POINTS      Number of decimal points to round to (default is 3, maximum is 7).
+  
+  --remove REMOVE      Whether to remove other files in the directory after processing (default is True).
 
 

@@ -2,6 +2,7 @@
 The marker localization mapper and mask merger of the quantification folder (MCMICRO)
 
 python eddy.py -h
+
 usage: eddy.py [-h] [--decimal_points DECIMAL_POINTS] [--remove REMOVE] directory
 
 Process quantification files to create an eddy object with categorized localizations.
